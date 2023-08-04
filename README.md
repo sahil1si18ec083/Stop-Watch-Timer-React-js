@@ -1,12 +1,8 @@
 # Stop-Watch-Timer-React-js
 Created with CodeSandbox
 
-Refer to image below:
-
-![Uploading image.png…]()
-
-
-reviews-app-output
+## Refer to image below:
+![image](https://github.com/sahil1si18ec083/Stop-Watch-Timer-React-js/assets/103936307/9039a939-f25d-4f6a-a023-615d20891f5f)
 
 
 Project Set Up Instructions
